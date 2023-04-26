@@ -1,3 +1,7 @@
+![main-bg1](https://user-images.githubusercontent.com/128978408/234439022-e50f5ec6-c654-4f7e-b066-1f1189cc271b.PNG)
+
+
+
 # Hi! I'm Heeyeon
 
 - E-mail : ellen095@naver.com
