@@ -2,12 +2,12 @@
 
 
 
-# Hiyeon!
+# ✨Hiyeon!✨
 
 - E-mail : ellen095@naver.com
 
  
-## I can...
+## ✔ I can...
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,25 +25,27 @@
 ![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
  
-## I'm currently learning...
+## 🔥 'm currently learning...
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
  
-## License
+## 🗨 License
 
 - GTQ 1급
 - GTQi 1급
 - 웹디자인기능사
 
  
-## I’m interested in...
+## ❣ I’m interested in...
 
-- 🎶 K-Pop
-- 🎨 Drawing
-- 🎮 Playing games
-- ❤ Meeting old friends
+- 🎶 K-Pop 🎶
+- 🎨 Drawing 🎨
+- 🎮 Playing games 🎮
+- ❤ Meeting old friends ❤
+
+### -----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heeyeon095&show_icons=true&locale=en&layout=compact" alt="Heeyeon095" /></p>
 
