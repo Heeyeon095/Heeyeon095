@@ -2,7 +2,7 @@
 
 
 
-# Hi! I'm Heeyeon
+# Hiyeon!
 
 - E-mail : ellen095@naver.com
 
