@@ -49,8 +49,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heeyeon095&show_icons=true&locale=en&layout=compact" alt="Heeyeon095" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heeyeon095&show_icons=true&theme=radical)
-
-
-아무리 제이쿼리 코드를 정상적으로 로드해도 Live server에 연동했을 때 caught ReferenceError: jQuery is not defined at <anonymous>:1:1764 가 뜨면서 제이쿼리를 가져오지 못하는 오류를 해결하지 못하고 있다.
- 
-공부가 하고싶다..
