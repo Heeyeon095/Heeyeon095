@@ -4,7 +4,7 @@
 
 # ✨Hiyeon!✨
 
-- E-mail : ellen095@naver.com
+- E-mail : ellen095@ehd.kr
 
  
 ## ✔ I can...
