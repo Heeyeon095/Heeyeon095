@@ -2,7 +2,7 @@
 
 
 
-# ✨Hiyeon!✨
+# ✨Heeyeon✨
 
 - E-mail : ellen095@ehd.kr
 
